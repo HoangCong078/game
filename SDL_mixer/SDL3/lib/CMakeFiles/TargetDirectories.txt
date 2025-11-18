@@ -1,0 +1,9 @@
+C:/SDL/SDL_mixer/build/CMakeFiles/SDL3_mixer-shared.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/package.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/package_source.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/edit_cache.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/rebuild_cache.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/list_install_components.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/install.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/install/local.dir
+C:/SDL/SDL_mixer/build/CMakeFiles/install/strip.dir

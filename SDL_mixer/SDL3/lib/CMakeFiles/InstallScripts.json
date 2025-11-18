@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/SDL/SDL_mixer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
