@@ -11,15 +11,15 @@
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
 
-                "-IC:\\game\\SDL3-Install\\SDL3\\include",
-                "-IC:\\game\\SDL3_image-3.2.2\\SDL3\\include",
-                "-IC:\\game\\SDL3_ttf-3.2.2\\SDL3\\include",
-                "-IC:\\game\\SDL_mixer\\SDL3\\include",
+                "-ISDL3-Install\\SDL3\\include",
+                "-ISDL3_image-3.2.2\\SDL3\\include",
+                "-ISDL3_ttf-3.2.2\\SDL3\\include",
+                "-ISDL_mixer\\SDL3\\include",
                 
-                "-LC:\\game\\SDL3-Install\\SDL3\\lib",
-                "-LC:\\game\\SDL3_image-3.2.2\\SDL3\\lib",
-                "-LC:\\game\\SDL3_ttf-3.2.2\\SDL3\\lib",
-                "-LC:\\game\\SDL_mixer\\SDL3\\lib",
+                "-LSDL3-Install\\SDL3\\lib",
+                "-LSDL3_image-3.2.2\\SDL3\\lib",
+                "-LSDL3_ttf-3.2.2\\SDL3\\lib",
+                "-LSDL_mixer\\SDL3\\lib",
 
 
                 "-lSDL3_image",
